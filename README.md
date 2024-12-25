@@ -1,4 +1,7 @@
 # smart-virtual-keyboard.github.io
+
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features and also take help of AI to solve some error. 
  
 
 The Virtual Keyboard project provides an interactive keyboard experience, featuring:
